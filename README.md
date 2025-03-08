@@ -5,16 +5,15 @@
 
 ## 📂 Project Structure
 ```
-📁 Torified-WiFi/ <br>
-	├── 📜 ap0.conf # 🏗️ Hostapd configuration for AP <br>
-	├── 🛠️ ap.sh # 🚀 Script to create the access point <br>
-	├── 🔄 checkErrorAndChangeIP.sh # 🔍 Script to check and restart services <br>
-	├── ❌ deleteAP.sh # ❌ Script to remove AP & reset firewall <br>
-	├── 📜 dhcp.conf # 📡 DHCP server configuration <br>
-	├── 🕵️ torrc # 🛑 Tor configuration <br>
-	└── 📘 README.md # 📖 This file! <br>
+📁 Torified-WiFi/ 
+	├── 📜 ap0.conf # 🏗️ Hostapd configuration for AP 
+	├── 🛠️ ap.sh # 🚀 Script to create the access point 
+	├── 🔄 checkErrorAndChangeIP.sh # 🔍 Script to check and restart services 
+	├── ❌ deleteAP.sh # ❌ Script to remove AP & reset firewall 
+	├── 📜 dhcp.conf # 📡 DHCP server configuration 
+	├── 🕵️ torrc # 🛑 Tor configuration 
+	└── 📘 README.md # 📖 This file! 
 	
-
 ```
 
 ---
